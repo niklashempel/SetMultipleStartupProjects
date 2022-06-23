@@ -1,4 +1,4 @@
-# SetMultipleStartupProjects
+# Set Multiple Startup Projects
 Visual Studio extension to set multiple startup projects directly in solution explorer.
 
 Set multiple startup projects by selecting them together. Right click then and choose 'Set as startup projects'.
