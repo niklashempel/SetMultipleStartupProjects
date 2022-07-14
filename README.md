@@ -1,4 +1,7 @@
 # Set Multiple Startup Projects
+
+Download, Reviews: <a title="Visual Studio Marketplace" href="https://marketplace.visualstudio.com/items?itemName=niklashempel.SetMultipleStartupProjects" target="_blank">Visual Studio Marketplace</a> <br />
+
 Visual Studio extension to set multiple startup projects directly in solution explorer.
 
 Set multiple startup projects by selecting them together. Right click then and choose 'Set as startup projects'.
